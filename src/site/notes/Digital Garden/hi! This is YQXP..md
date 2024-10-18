@@ -10,10 +10,10 @@ Welcome to my [[Digital Garden/digital garden\|Digital Garden/digital garden]] �
 This is my collection of very rough ideas, a lot of the ideas might also be potientially biased. Pleased read with critical thinking or if you want to just listen to music, please go to my [personal website](https://yqxp.wordpress.com). 
 ### **Don't know where to start? There are some categories you might want to have a look at ---**
 ## **Ideas**
-🎹[[Music\|Music]]
+🎹[[1. Music/Music(中文)\|Music(中文)]]
 🖋️[[Thinking\|Thinking]]
 ## **Journals**
-📷[[Travel\|Travel]]
+📷[[Indexes/Travel\|Travel]]
 🌏[[Maps\|Maps]]
 ## **Reviews**
 ✨[[Anime\|Anime]]

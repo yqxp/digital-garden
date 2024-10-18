@@ -10,7 +10,7 @@
 [[Recording & Mixing 录音混音\|Recording & Mixing 录音混音]]
 [[Screen Production 影视游戏音乐\|Screen Production 影视游戏音乐]]
 [[Composition 作曲\|Composition 作曲]]
-[[Counterpoint 对位\|Counterpoint 对位]]
+[[1. Music/Counterpoint 对位\|Counterpoint 对位]]
 
 # 自己自学和自己分析的笔记
 
