@@ -5,7 +5,7 @@
 
 Hi! This is YQXP. 
 
-Welcome to my [[Digital Garden/digital garden\|Digital Garden/digital garden]] 🌱
+Welcome to my [[Digital Garden/digital garden\|digital garden]] 🌱
 
 This is my collection of very rough ideas, a lot of the ideas might also be potientially biased. Pleased read with critical thinking or if you want to just listen to music, please go to my [personal website](https://yqxp.wordpress.com). 
 ### **Don't know where to start? There are some categories you might want to have a look at ---**
