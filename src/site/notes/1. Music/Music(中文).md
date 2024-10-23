@@ -11,6 +11,7 @@
 [[Screen Production 影视游戏音乐\|Screen Production 影视游戏音乐]]
 [[Composition 作曲\|Composition 作曲]]
 [[1. Music/Counterpoint 对位\|Counterpoint 对位]]
+[[1. Music/Fugue Writing 赋格写作\|Fugue Writing 赋格写作]]
 
 # 自己自学和自己分析的笔记
 
