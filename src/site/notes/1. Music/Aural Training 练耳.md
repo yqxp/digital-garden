@@ -1,5 +1,5 @@
 ---
-{"title":"Aural Training","dg-publish":true,"permalink":"/1-music/aural-training/","dgPassFrontmatter":true}
+{"title":"Aural Training","dg-publish":true,"tag":null,"permalink":"/1-music/aural-training/","dgPassFrontmatter":true}
 ---
 
 一. 旋律听音
