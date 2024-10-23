@@ -1,5 +1,5 @@
 ---
-{"title":"What is a digital garden?","dg-publish":true,"tags":["音乐"],"permalink":"/1-music/music/","dgPassFrontmatter":true}
+{"title":"Music Index","dg-publish":true,"tags":["音乐"],"permalink":"/1-music/music/","dgPassFrontmatter":true}
 ---
 
 这里是关于音乐理论的页面！欢迎进来讨论音乐理论！我会把我知道的东西与我做的笔记都列在这里，欢迎查阅！
